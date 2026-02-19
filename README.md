@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=Hello,+my+name+is+Avaya" alt="Hello Greeting" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+AI+Solutions;Building+data-aware+web+architecture;Mastering+MERN+%26+Next.js;Practicing+DSA+in+Java+%26+C%2B%2B;Optimizing+for+Answer+Engines+(AEO)" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -15,8 +13,8 @@
     <blockquote align="left">
       <p align="left">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> <b>System Output:</b><br/><br/>
-        Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building high-performance, data-aware web applications. My expertise in the <b>MERN stack</b>, <b>Next.js</b>, and <b>TypeScript</b> allows me to efficiently handle robust server-side logic and seamless front-end experiences. <br/><br/>
-        I am deeply interested in AI-based technologies, actively integrating LLMs and APIs into web products to optimize systems for Answer Engine Optimization (AEO). When I am not building platforms where software understands data, I am sharpening my logic by solving Data Structures and Algorithms problems in <b>Java</b> and <b>C++</b>.
+        Hi! I am a Full-Stack Engineer with 1.5 years of experience architecting high-performance, data-aware web applications. I specialize in the <b>MERN stack</b>, <b>Next.js</b>, and <b>TypeScript</b>, bridging the gap between robust server-side logic and seamless user experiences. <br/><br/>
+        Beyond traditional web development, my core focus lies in building intelligent systems. I actively integrate LLMs and AI agents into web products to drive Answer Engine Optimization (AEO) and scalable automation. My philosophy is simple: I build platforms where software doesn't just store data, it understands it.
       </p>
     </blockquote>
   </details>
