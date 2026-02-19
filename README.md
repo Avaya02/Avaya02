@@ -13,7 +13,7 @@
     <blockquote align="left">
       <p align="left">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> <b>System Output:</b><br/><br/>
-        Hi! I am a Full-Stack Engineer with 1.5 years of experience architecting high-performance, data-aware web applications. I specialize in the <b>MERN stack</b>, <b>Next.js</b>, and <b>TypeScript</b>, bridging the gap between robust server-side logic and seamless user experiences. <br/><br/>
+        Hi! I am a Full-Stack Engineer with 2 years of experience architecting high-performance, data-aware web applications. I specialize in the <b>MERN stack</b>, <b>Next.js</b>, and <b>TypeScript</b>, bridging the gap between robust server-side logic and seamless user experiences. <br/><br/>
         Beyond traditional web development, my core focus lies in building intelligent systems. I actively integrate LLMs and AI agents into web products to drive Answer Engine Optimization (AEO) and scalable automation. My philosophy is simple: I build platforms where software doesn't just store data, it understands it.
       </p>
     </blockquote>
