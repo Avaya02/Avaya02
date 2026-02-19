@@ -32,28 +32,28 @@
 
 <br/>
 
-### 📈 GitHub Analytics Hub:
+<h3 align="center">📈 GitHub Analytics Hub</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avaya02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avaya02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="650" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="380" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="380" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="320" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="320" />
 </div>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="380" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" width="380" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="320" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" width="320" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="765" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="650" />
 </div>
 
 <br/>
