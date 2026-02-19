@@ -20,19 +20,19 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 <br/>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="380" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="380" />
 </div>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="380" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" width="380" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="765" />
 </div>
 
 <br/>
