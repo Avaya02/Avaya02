@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <h2><code>Avaya Sharma</code></h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=Hello,+my+name+is+Avaya" alt="Hello Greeting" />
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+AI+Solutions;Building+data-aware+web+architecture;Mastering+MERN+%26+Next.js;Practicing+DSA+in+Java+%26+C%2B%2B;Optimizing+for+Answer+Engines+(AEO)" alt="Typing Animation" />
 </div>
 
@@ -19,15 +20,6 @@
       </p>
     </blockquote>
   </details>
-</div>
-
-<br/>
-
-<h3 align="center">⚡ Tech Arsenal</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,java,cpp,git&theme=dark&perline=10" alt="Tech Stack Interactive Icons" />
-  </a>
 </div>
 
 <br/>
