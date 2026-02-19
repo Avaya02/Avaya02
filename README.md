@@ -7,27 +7,34 @@
 
 <br/>
 
-Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building high-performance, data-aware web applications. My expertise in the MERN stack, Next.js, and TypeScript allows me to efficiently handle robust server-side logic and seamless front-end experiences. I am also deeply interested in AI-based technologies, actively integrating LLMs and APIs like Gemini into web products to optimize systems for Answer Engine Optimization (AEO). My goal is to deliver quality, scalable solutions where software understands data — not just stores it.
+Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building high-performance, data-aware web applications. My expertise in the MERN stack, Next.js, and TypeScript allows me to efficiently handle robust server-side logic and seamless front-end experiences. I am also deeply interested in AI-based technologies, actively integrating LLMs and APIs into web products to optimize systems for Answer Engine Optimization (AEO). My goal is to deliver quality, scalable solutions where software understands data — not just stores it.
 
 <br/>
 
 ### 📈 GitHub Activity Graph:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avaya02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avayasharma&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaya02&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Avaya02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repo-stars.svg" alt="Top Languages by Repo" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaya02&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
 </div>
 
 <br/>
@@ -45,7 +52,7 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 
 <div align="center">
   <h4>Visitors Count</h4>
-  <img src="https://profile-counter.glitch.me/Avaya02/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/avayasharma/count.svg" alt="Visitor Count" />
   <br/><br/>
   <p><b>Thanks for visiting my profile.</b></p>
 </div>
