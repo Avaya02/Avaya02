@@ -32,12 +32,7 @@
 
 <div align="center">
   <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="245" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="245" />
-</div>
-
-<div align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="245" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" width="245" />
 </div>
 
 <br/>
