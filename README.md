@@ -14,7 +14,7 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 ### 📈 GitHub Activity Graph:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avayasharma&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avaya02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -43,7 +43,7 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
   <a href="mailto:YOUR_EMAIL@GMAIL.COM">
     <img src="https://img.shields.io/badge/GMAIL-181717?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/avayasharma">
+  <a href="https://linkedin.com/in/Avaya02">
     <img src="https://img.shields.io/badge/LINKEDIN-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
 </div>
@@ -52,7 +52,7 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 
 <div align="center">
   <h4>Visitors Count</h4>
-  <img src="https://profile-counter.glitch.me/avayasharma/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Avaya02/count.svg" alt="Visitor Count" />
   <br/><br/>
   <p><b>Thanks for visiting my profile.</b></p>
 </div>
