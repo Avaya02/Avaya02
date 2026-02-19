@@ -20,14 +20,21 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avaya02&layout=donut&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Avaya02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repo-stars.svg" alt="Top Languages by Repo" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avaya02&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="48%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="100%" />
 </div>
 
 <br/>
@@ -41,7 +48,7 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 <br/>
 
 <div align="center">
-  <br/>
+  <h4>Visitors Count</h4>
   <img src="https://komarev.com/ghpvc/?username=Avaya02&color=008B8B&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
   <br/><br/>
   <p><b>Thanks for visiting my profile.</b></p>
