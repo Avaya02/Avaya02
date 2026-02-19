@@ -20,24 +20,13 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 <br/>
 
 <div align="center">
-  <table align="center" style="border: none; background-color: transparent;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="./profile-summary-card-output/tokyonight/1-repo-stars.svg" alt="Top Languages by Repo / Repo Stars" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" />
-      </td>
-    </tr>
-  </table>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Commits Time" />
 </div>
 
 <br/>
