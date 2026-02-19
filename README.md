@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112A46,100:008B8B&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=180&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
   <h2><code>Hello, my name is Avaya Sharma</code></h2>
@@ -39,7 +39,7 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 
 <div align="center">
   <a href="https://linkedin.com/in/avayasharma">
-    <img src="https://img.shields.io/badge/LINKEDIN-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-181717?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
   </a>
 </div>
 
@@ -47,9 +47,9 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 
 <div align="center">
   <h4>Visitors Count</h4>
-  <img src="https://komarev.com/ghpvc/?username=Avaya02&color=008B8B&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Avaya02&color=bb9af7&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
   <br/><br/>
   <p><b>Thanks for visiting my profile.</b></p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112A46,100:008B8B&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%"/>
