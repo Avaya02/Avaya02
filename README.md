@@ -1,17 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <h2><code>Hello, my name is Avaya Sharma</code></h2>
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Full-Stack Developer & AI Solutions Builder <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></h3>
+  <h2><code>Avaya Sharma</code></h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+AI+Solutions;Building+data-aware+web+architecture;Mastering+MERN+%26+Next.js;Practicing+DSA+in+Java+%26+C%2B%2B;Optimizing+for+Answer+Engines+(AEO)" alt="Typing Animation" />
 </div>
 
 <br/>
 
-Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building high-performance, data-aware web applications. My expertise in the MERN stack, Next.js, and TypeScript allows me to efficiently handle robust server-side logic and seamless front-end experiences. I am also deeply interested in AI-based technologies, actively integrating LLMs and APIs into web products to optimize systems for Answer Engine Optimization (AEO). My goal is to deliver quality, scalable solutions where software understands data — not just stores it.
+<div align="center">
+  <details>
+    <summary><b><code style="color: #bb9af7; font-size: 16px;">> ./run_avaya_bio.sh (Click to Execute) </code></b></summary>
+    <br/>
+    <blockquote align="left">
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> <b>System Output:</b><br/><br/>
+        Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building high-performance, data-aware web applications. My expertise in the <b>MERN stack</b>, <b>Next.js</b>, and <b>TypeScript</b> allows me to efficiently handle robust server-side logic and seamless front-end experiences. <br/><br/>
+        I am deeply interested in AI-based technologies, actively integrating LLMs and APIs into web products to optimize systems for Answer Engine Optimization (AEO). When I am not building platforms where software understands data, I am sharpening my logic by solving Data Structures and Algorithms problems in <b>Java</b> and <b>C++</b>.
+      </p>
+    </blockquote>
+  </details>
+</div>
 
 <br/>
 
-### 📈 GitHub Activity Graph:
+<h3 align="center">⚡ Tech Arsenal</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,java,cpp,git&theme=dark&perline=10" alt="Tech Stack Interactive Icons" />
+  </a>
+</div>
+
+<br/>
+
+### 📈 GitHub Analytics Hub:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avaya02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
@@ -39,17 +60,17 @@ Hi! I am a skilled Full-Stack developer with 1.5 years of experience in building
 
 <div align="center">
   <a href="https://linkedin.com/in/avayasharma">
-    <img src="https://img.shields.io/badge/LINKEDIN-181717?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h4>Visitors Count</h4>
-  <img src="https://komarev.com/ghpvc/?username=Avaya02&color=bb9af7&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <h4>System Traffic</h4>
+  <img src="https://komarev.com/ghpvc/?username=Avaya02&color=bb9af7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
   <br/><br/>
-  <p><b>Thanks for visiting my profile.</b></p>
+  <p><b><code style="color: #7aa2f7;">End of output. Thanks for visiting.</code></b></p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%"/>
