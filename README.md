@@ -1,61 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=header&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Avaya Sharma. I build production backends and the AI layer on top of them. Software engineer at Eastern Software Solutions from October 2024, founding engineer at EvidentlyAEO from October 2025, now open to new roles. Based in Delhi, India." src="assets/header-light.svg" width="100%">
+</picture>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=bb9af7&center=true&vCenter=true&width=600&lines=Hello,+my+name+is+Avaya" alt="Hello Greeting" />
-</div>
+<br><br>
 
-<br/>
+<a href="https://evidentlyaeo.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/evidentlyaeo-dark.svg">
+  <img alt="EvidentlyAEO, where I was founding engineer from 2025 to 2026: daily collection of answers from ChatGPT, Google AI Overviews, Perplexity, Claude, Gemini, Copilot and Grok, LLM scoring, Postgres, then dashboards, an MCP server with 29 tools, and agency white-label." src="assets/evidentlyaeo-light.svg" width="100%">
+</picture>
+</a>
 
-<div align="center">
-  <details>
-    <summary><b><code style="color: #bb9af7; font-size: 16px;">> ./run_avaya_bio.sh (Click to Execute) </code></b></summary>
-    <br/>
-    <blockquote align="left">
-      <p align="left">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> <b>System Output:</b><br/><br/>
-        Hi! I am a Full-Stack Engineer with 1.5 years of experience architecting high-performance, data-aware web applications. I specialize in the <b>MERN stack</b>, <b>Next.js</b>, and <b>TypeScript</b>, bridging the gap between robust server-side logic and seamless user experiences. <br/><br/>
-        Beyond traditional web development, my core focus lies in building intelligent systems. I actively integrate LLMs and AI agents into web products to drive Answer Engine Optimization (AEO) and scalable automation. My philosophy is simple: I build platforms where software doesn't just store data, it understands it.
-      </p>
-    </blockquote>
-  </details>
-</div>
+What I built as founding engineer. The code is private, so this is the shape of it:
 
-<br/>
+- **Job system on Postgres.** Workers claim runs with an atomic update, so a second worker node shares the queue without double-processing. Stuck runs are detected, failed and alerted.
+- **MCP server.** OAuth and API-key access, a tenant check on every call, and responses that flag missing data so assistants report gaps instead of inventing metrics.
+- **Agency multi-tenancy.** Pooled quotas enforced in Postgres triggers under per-agency advisory locks.
+- **Billing.** Stripe checkout and plan entitlements, with idempotent webhooks so a redelivery never provisions twice.
 
-<h3 align="center">📈 GitHub Analytics Hub</h3>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avaya02&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="500" />
-</div>
+<a href="https://github.com/Avaya02/Relay">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/relay-dark.svg">
+  <img alt="Relay, open source: the agent runs on your machine through the relayrun CLI, the server orders every event and holds the driver lock, and every browser sees the same sequence while control passes mid-task." src="assets/relay-light.svg" width="100%">
+</picture>
+</a>
 
-<br/>
+[Source](https://github.com/Avaya02/Relay) · [relayrun.in](https://relayrun.in) · [`relayrun` on npm](https://www.npmjs.com/package/relayrun)
 
-<div align="center">
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="245" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="245" />
-</div>
+<br>
 
-<br/>
+**Stack:** TypeScript, Node.js, React, Next.js, PostgreSQL, Prisma, Claude Agent SDK, MCP
 
-<div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="500" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/avayasharma">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h4>System Traffic</h4>
-  <img src="https://komarev.com/ghpvc/?username=Avaya02&color=bb9af7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
-  <br/><br/>
-  <p><b><code style="color: #7aa2f7;">End of output. Thanks for visiting.</code></b></p>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%"/>
+[avayasharma.com](https://avayasharma.com) · [X](https://x.com/Avaya_002) · [LinkedIn](https://linkedin.com/in/avayasharma)
